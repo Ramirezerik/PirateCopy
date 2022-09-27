@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.table-image{
+height: 150px;
+width: 150px;
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.profile{
+  height: 200px;
+  width: 950px;
+}
+
+.pirate-name{
+  color:orangered;
+  font-weight: 700;
+}
+
+
+.navBar{
+  background-color:tomato;
+  padding-bottom: 1%;
+}
+
+.body{
+  background-color: teal;
+}
+
+/* DetailsPirate.js */
+
+.Pirate-Image{
+  height: 600px;
+  width: 475px;
+  border-radius: 10px;
+  border-color: black;
+  border:5px solid;
+}
+
+.Pirate-Bio{
+  margin-left: 15%;
+  margin-top: 10%;
+}
+
+
+
+/* EditPirate.js */
+.editBody{
+  background-color: teal;
+  height: 700px;
+}
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
